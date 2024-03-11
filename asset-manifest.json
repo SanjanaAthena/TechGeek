@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SanjanaAthena/TechGeek.git/static/css/main.1024d556.css",
+    "main.js": "/SanjanaAthena/TechGeek.git/static/js/main.4755f6e0.js",
+    "static/media/img4.webp": "/SanjanaAthena/TechGeek.git/static/media/img4.1688cbe59db74ad4b8ab.webp",
+    "static/media/img1.webp": "/SanjanaAthena/TechGeek.git/static/media/img1.f2a708e59b5cf1f71944.webp",
+    "index.html": "/SanjanaAthena/TechGeek.git/index.html",
+    "main.1024d556.css.map": "/SanjanaAthena/TechGeek.git/static/css/main.1024d556.css.map",
+    "main.4755f6e0.js.map": "/SanjanaAthena/TechGeek.git/static/js/main.4755f6e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1024d556.css",
+    "static/js/main.4755f6e0.js"
+  ]
+}
